@@ -15,7 +15,7 @@ Teran: Tenang Pikiran adalah aplikasi mobile yang dikembangkan sebagai bagian da
 ## Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: Kotlin
-- **APIs**: Google Fit API untuk integrasi dengan data kesehatan
+- **APIs**: API untuk integrasi dari cloud computing menggunakan Retrofit
 
 ## Struktur Tim
 
