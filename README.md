@@ -28,4 +28,4 @@ Proyek ini dikerjakan oleh dua tim kolaboratif:
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/teran-tenang-pikiran.git
+   git clone https://github.com/Teran-Capstone-Project/Teran-Mobile-Development.git
